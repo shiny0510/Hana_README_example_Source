@@ -85,6 +85,8 @@ for i in range(0,5):
 이미지 생성 | 2021 | GAN | [GAN 프로젝트 링크](https://github.com/shiny0510/FewShot_GAN-Unet3D)
 객체탐지 | 2022 | YOLO | [링크를걸겠습니다.](https://github.com/shiny0510/pycaret)
 
+![test2](https://user-images.githubusercontent.com/85111065/235043013-a5c7a0e7-e717-439d-bdf2-b8557237c1dd.PNG)
+
 
 
 
